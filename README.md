@@ -3,5 +3,5 @@
 Member of the coding bootcamps europe, in germany
 
 * 🔭 I’m currently working on my career as a Webdeveloper
-* 👯 I’m looking to work with as many Developer as i can
-- ⚡ Fun fact: Developer with a pinch of turkish flavour
+* 👯 I am looking for inspiring coding solutions
+* ⚡ Fun fact: developer with a creative eye
