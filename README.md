@@ -1,8 +1,7 @@
-### Here is What I'm Working On!  👋
+### Hi, I’m Leon Yanez 🐉
 
-Here are some ideas to get you started:
+Member of the coding bootcamps europe, in germany
 
-- 🔭 I’m currently working on ... UX-Design
-- 🌱 I’m currently learning ... JavaScript
-- 👯 I’m looking to collaborate on ... JavaScript
-- ⚡ Fun fact: ... I'am half Finnish
+* 🔭 I’m currently working on my career as a Webdeveloper
+* 👯 I’m looking to work with as many Developer as i can
+- ⚡ Fun fact: Developer with a pinch of turkish flavour
